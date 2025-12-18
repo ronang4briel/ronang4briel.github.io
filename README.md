@@ -1,6 +1,4 @@
-# ronang4briel.github.io
-
-Ronan Gabriel | Cientista de Dados
+# Ronan Gabriel | Cientista de Dados
   <style>
     body {
       font-family: Arial, sans-serif;
