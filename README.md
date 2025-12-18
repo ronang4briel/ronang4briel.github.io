@@ -1,10 +1,6 @@
 # ronang4briel.github.io
-Meu Portifólio / blog
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Ronan Gabriel | Cientista de Dados</title>
+
+Ronan Gabriel | Cientista de Dados
   <style>
     body {
       font-family: Arial, sans-serif;
