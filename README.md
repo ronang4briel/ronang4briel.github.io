@@ -261,16 +261,17 @@
         <section>
             <h2>Competências Técnicas</h2>
             <div class="skills-grid">
-               </div>
-                <div class="skill-category">
-                    <strong>Ciência de Dados</strong>
-                   Aprendizado de máquinas e automação, Deep Learning e IA, Estatistica Preditiva.
+            <div class="skill-category">
+            <strong>Ciência de Dados</strong>
+                   Aprendizado de máquinas, automação, Deep Learning, IA, Estatistica Preditiva.
+                   </div>
+                   <div class="skill-category">
                     <strong>Análise de Dados & BI</strong>
                     Python, SQL, Power BI (DAX), Excel Avançado, Estatística Descritiva, ETL/ELT, Web Scraping, Git/GitHub.
-                </div>
+                    </div>
                     <div class="skill-category">
-                    <strong>Bancos de Dados & Cloud</strong>
-                    PostgreSQL, SQLserver, Azurefactoring, Modelagem de Dados.
+                    <strong>Banco de Dados & Cloud</strong>
+                    Postgre, SQLserver, Azurefactoring.
                 </div>
             </div>
         </section>
