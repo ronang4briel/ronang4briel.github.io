@@ -242,7 +242,7 @@
     <div class="cv-container">
         <header>
             <h1>Ronan Gabriel </h1>
-            <div class="subtitle">Analista de Dados | Python, SQL & Power BI | Background em Engenharia de Software</div>
+            <div class="subtitle">Cientista de Dados | Python, SQL & Power BI | Background em IA e ML, BI e Analytics</div>
             <div class="contact-info">
                 <span>📍 Brasília, DF (Disponível para Outras Regiões)</span>
                 <span>📧 <a href="mailto:ronangabriel1@gmail.com">ronang4briel@hotmail.com</a></span>
@@ -304,7 +304,8 @@
                 <ul>
                     <li>Modelagem e processamento de alguns dados monitorados pela Anvisa com otimização de consultas em <strong>30%</strong>.</li>
                     <li>Realizou análise exploratória de dados (EDA) de performance escolar de 300+ alunos, identificando gargalos de aprendizado e sugerindo intervenções pedagógicas baseadas em dados.</li>
-                    <li>Desenvolvimento de dashboards publicados no Observatório de Regulação da Anvisa (https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/observatorio#:~:text=O%20Observat%C3%B3rio%20de%20Regula%C3%A7%C3%A3o%20Sanit%C3%A1ria,de%20forma%20inteligente%20e%20din%C3%A2mica.).</li>
+                    <li>Desenvolvimento de dashboards publicados no Observatório de Regulação da Anvisa.
+                    <span>💻 <a href="[https://github.com/ronang4briel](https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/observatorio#:~:text=O%20Observat%C3%B3rio%20de%20Regula%C3%A7%C3%A3o%20Sanit%C3%A1ria,de%20forma%20inteligente%20e%20din%C3%A2mica)" target="_blank">github.com/ronang4briel</a></span>.</li>
                 </ul>
             </div>
 
