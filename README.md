@@ -21,7 +21,7 @@
     }
     ul { padding-left: 20px; }
   </style>
-</head>
+
 <body>
   <div class="container">
     <h1>Ronan Gabriel</h1>
