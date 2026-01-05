@@ -247,7 +247,7 @@
                 <span>📍 Brasília, DF (Disponível para Outras Regiões)</span>
                 <span>📧 <a href="mailto:ronangabriel1@gmail.com">ronang4briel@hotmail.com</a></span>
                 <span>📱 (61) 99363-9187</span>
-                <span>🔗 <a href="https://linkedin.com/inronangabriel1" target="_blank">linkedin.com/in/ronangabriel1</a></span>
+                <span>🔗 <a href="https://linkedin.com/in/ronangabriel1" target="_blank">linkedin.com/in/ronangabriel1</a></span>
                 <span>💻 <a href="https://github.com/ronang4briel" target="_blank">github.com/ronang4briel</a></span>
             </div>
         </header>
@@ -377,7 +377,7 @@
             <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Ciência de Dados e Inteligência Artificial</span> <span class="sep">|</span> <span class="entry-company">Universidade Hospital Alemão Oswaldo Cruz</span>
+                        <span class="entry-title">Ciência de Dados e Inteligência Artificial</span> <span class="sep">|</span> <span class="entry-company">Universidade Oswaldo Cruz</span>
                     </div>
                     <span class="entry-date">Conclusão: 2025</span>
                 </div>
