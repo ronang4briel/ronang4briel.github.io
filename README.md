@@ -244,8 +244,8 @@
             <div class="subtitle">Cientista de Dados | Python, SQL & Power BI | Background em IA e ML, BI e Analytics</div>
             <div class="contact-info">
                 <span>📍 Brasília, DF (Disponível para Outras Regiões)</span>
-                <span>📧 <a href="mailto:ronangabriel1@gmail.com">ronangabriel1@gmail.com</a></span>
                 <span>📱 (61) 99363-9187</span>
+                <span>📧 <a href="mailto:ronangabriel1@gmail.com">ronangabriel1@gmail.com</a></span>
                 <span>🔗 <a href="https://linkedin.com/in/ronangabriel1" target="_blank">linkedin.com/in/ronangabriel1</a></span>
                 <span>💻 <a href="https://github.com/ronang4briel" target="_blank">github.com/ronang4briel</a></span>
             </div>
