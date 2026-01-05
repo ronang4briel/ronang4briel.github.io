@@ -254,7 +254,8 @@
         <section>
             <h2>Resumo Profissional</h2>
             <p class="summary-text">
-                Atualmente, trabalho com Business Intelligence e Analytics na Agência Nacional de Vigilância Sanitária (ANVISA), desenvolvendo suporte administrativo e analítico para iniciativas relacionadas a Processamento, Governança, Inteligência, Ciência de Dados e Inteligência Artificial utilizando<strong>Python (Pandas, Scikit-learn), SQL e Power BI</strong>. Meu trabalho consiste em fortalecer as capacidades analíticas da instituição para gerar informações que sirvam de evidências para a tomada de decisões estratégicas. Possui background e ampla experiência nos seguimentos governamentais e corporativos.
+                Meu trabalho consiste em fortalecer as capacidades analíticas da instituição para gerar informações que sirvam de evidências para a tomada de decisões estratégicas. Possuo background e ampla experiência nos seguimentos governamentais da área da saúde e corporativos.
+                Atualmente, trabalho desenvolvendo suporte gerencial e analítico para atividades relacionadas à Governança, Inteligência e Ciência de Dados também a implementação de Inteligência Artificial nos proecssos de trabalho das áreas finalísticas utilizando <strong>Python (Pandas, Scikit-learn), SQL e Power BI</strong>.
             </p>
         </section>
 
@@ -385,7 +386,7 @@
             <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Inteligência Artificial para Predições em Vigilância e Saúde</span> <span class="sep">|</span> <span class="entry-company">PROFEP/USP</span>
+                        <span class="entry-title">Inteligência Artificial para Predições em Vigilância e Saúde</span> <span class="sep">|</span> <span class="entry-company">Profep/USP</span>
                     </div>
                     <span class="entry-date">Conclusão: 2025</span>
                 </div>
