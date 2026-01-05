@@ -302,8 +302,8 @@
                 <ul>
                     <li>Modelagem e processamento de alguns dados monitorados pela Anvisa com otimização de consultas em <strong>30%</strong>.</li>
                     <li>Realizou análise exploratória de dados (EDA) de performance escolar de 300+ alunos, identificando gargalos de aprendizado e sugerindo intervenções pedagógicas baseadas em dados.</li>
-                    <li>Desenvolvimento de dashboards publicados no Observatório de Regulação da Anvisa.
-                    <span>💻 <a href="https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/observatorio#:~:text=O%20Observat%C3%B3rio%20de%20Regula%C3%A7%C3%A3o%20Sanit%C3%A1ria,de%20forma%20inteligente%20e%20din%C3%A2mica)" target="_blank">aqui</a></span>.</li>
+                    <li>Desenvolvimento de dashboards publicados no
+                    <span> <a href="https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/observatorio#:~:text=O%20Observat%C3%B3rio%20de%20Regula%C3%A7%C3%A3o%20Sanit%C3%A1ria,de%20forma%20inteligente%20e%20din%C3%A2mica)" target="_blank">Observatório de Regulação da Anvisa.</a></span>.</li>
                 </ul>
             </div>
 
