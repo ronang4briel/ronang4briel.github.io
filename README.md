@@ -263,7 +263,7 @@
             <div class="skills-grid">
             <div class="skill-category">
             <strong>Ciência de Dados</strong>
-                   Aprendizado de máquinas, automação, Deep Learning, IA, Estatistica Preditiva.
+                   Aprendizado de máquina, Deep Learning, IA, Estatistica Preditiva.
                    </div>
                    <div class="skill-category">
                     <strong>Análise de Dados & BI</strong>
@@ -289,7 +289,7 @@
                 <ul>
                     <li>Apoio gerencial e técnico em atividades de <strong> Ciência, Governmança e Inteligência de dados</strong> como levantamento de requisitos, gestão de projetos, escolhas de ferramentas, .</li>
                     <li>Administração e monitoramento de licenciamento de ferramentas de BI e de Processamento em núvem de preojetos de dados.</li>
-                    <li>Desenvolvimento de indicadores de desempenho e faturamento de contratos de BI.</li>
+                    <li>Desenvolvimento de indicadores de desempenho e monitoramento de contratos de BI & Analytics e Azure.</li>
                 </ul>
             </div>
 
@@ -304,7 +304,7 @@
                     <li>Modelagem e processamento de alguns dados monitorados pela Anvisa com otimização de consultas em <strong>30%</strong>.</li>
                     <li>Realizou análise exploratória de dados (EDA) de performance escolar de 300+ alunos, identificando gargalos de aprendizado e sugerindo intervenções pedagógicas baseadas em dados.</li>
                     <li>Desenvolvimento de dashboards publicados no
-                    <span> <a href="https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/observatorio#:~:text=O%20Observat%C3%B3rio%20de%20Regula%C3%A7%C3%A3o%20Sanit%C3%A1ria,de%20forma%20inteligente%20e%20din%C3%A2mica)" target="_blank">Observatório de Regulação da Anvisa.</a></span>.</li>
+                    <span> <a href="https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/observatorio#:~:text=O%20Observat%C3%B3rio%20de%20Regula%C3%A7%C3%A3o%20Sanit%C3%A1ria,de%20forma%20inteligente%20e%20din%C3%A2mica)" target="_blank">Observatório de Regulação da Anvisa</a></span>.</li>
                 </ul>
             </div>
 
@@ -340,8 +340,8 @@
             <h2>Projetos em Destaque</h2>
             <div class="entry">
                 <div class="entry-header">
-                    <span class="entry-title">IA Aplicada à compras Públicas </span>
-                    <span class="entry-date" style="color: var(--accent-color)"Python, Power BI, SQLserver</span>
+                    <span class="entry-title">IA Aplicada a Análise de compras Públicas </span>
+                    <span class="entry-date" style="color: var(--accent-color)">Python, Power BI, SQLserver</span>
                 </div>
                 <ul>
                     <li><strong>Problema de Negócio:</strong> Identificar discrepância regional e anual em compras públicas e privadas de stents farmacológicos.</li>
