@@ -285,10 +285,10 @@
                     <div class="entry-title-group">
                         <span class="entry-title">Governança, Ciência e Inteligência de Dados </span> <span class="sep">|</span> <span class="entry-company">CGINT - Anvisa</span>
                     </div>
-                    <span class="entry-date">jan 2022 – Presente</span>
+                    <span class="entry-date">Dez 2022 – Presente</span>
                 </div>
                 <ul>
-                    <li>Apoio gerencial e técnico em atividades de <strong> Ciência, Governmança e Inteligência de dados</strong> como levantamento de requisitos, gestão de projetos, escolhas de ferramentas, .</li>
+                    <li>Apoio gerencial e técnico em atividades de <strong> Ciência, Governmança e Inteligência de dados</strong> realizando levantamento de requisitos, gestão de projetos, escolhas de ferramentas, .</li>
                     <li>Administração e monitoramento de licenciamento de ferramentas de BI e de Processamento em núvem de preojetos de dados.</li>
                     <li>Desenvolvimento de indicadores de desempenho e monitoramento de contratos de BI & Analytics e Azure.</li>
                 </ul>
@@ -299,11 +299,11 @@
                     <div class="entry-title-group">
                         <span class="entry-title">Analista de Dados</span> <span class="sep">|</span> <span class="entry-company">GECOR - Anvisa</span>
                     </div>
-                    <span class="entry-date">Jan 2021– Jul 2020</span>
+                    <span class="entry-date">Jan 2021– Jul 2022</span>
                 </div>
                 <ul>
-                    <li>Modelagem e processamento de alguns dados monitorados pela Anvisa com otimização de consultas em <strong>30%</strong>.</li>
-                    <li>Realizou análise exploratória de dados (EDA) de performance escolar de 300+ alunos, identificando gargalos de aprendizado e sugerindo intervenções pedagógicas baseadas em dados.</li>
+                    <li>Modelagem e processamento de alguns dados monitorados pela Anvisa com otimização na disponibilização ddos abertos em <strong>30%</strong>.</li>
+                    <li>Realização de análise exploratória de dados (EDA) de performance de colaboradores identificando gargalos de em projetos e sugerindo intervenções estratégicas de performance baseadas em dados.</li>
                     <li>Desenvolvimento de dashboards publicados no
                     <span> <a href="https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/observatorio#:~:text=O%20Observat%C3%B3rio%20de%20Regula%C3%A7%C3%A3o%20Sanit%C3%A1ria,de%20forma%20inteligente%20e%20din%C3%A2mica)" target="_blank">Observatório de Regulação da Anvisa</a></span>.</li>
                 </ul>
@@ -314,7 +314,7 @@
                     <div class="entry-title-group">
                         <span class="entry-title">Analista de Dados</span> <span class="sep">|</span> <span class="entry-company">GELOG - Anvisa</span>
                     </div>
-                    <span class="entry-date">jan 2019 – jun 2020</span>
+                    <span class="entry-date">Jan 2019 – Jun 2020</span>
                 </div>
                 <ul>
                     <li>Monitoramento de contratos de logisticas e de outros seguimentos obtendo <strong>redução considerável</strong> em dotações orçamentarias.</li>
@@ -325,7 +325,7 @@
             <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Consultor Analista de Dados</span> <span class="sep">|</span> <span class="entry-company">Rede HADCO</span>
+                        <span class="entry-title">Consultor Analista de Dados</span> <span class="sep">|</span> <span class="entry-company">Rede HADC (franquias de fast food)</span>
                     </div>
                     <span class="entry-date">jan 2018 – Dez 2018</span>
                 </div>
@@ -395,7 +395,7 @@
             <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Inglês Intermediários</span> <span class="sep">|</span> <span class="entry-company">Nível B3</span>
+                        <span class="entry-title">Inglês Intermediário</span> <span class="sep">|</span> <span class="entry-company">Nível B3</span>
                     </div>
                 </div>
                 
