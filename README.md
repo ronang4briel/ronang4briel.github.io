@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -266,7 +265,6 @@
                 <div class="skill-category">
                     <strong>Ciência de Dados</strong>
                    Aprendizado de máquinas e automação, Deep Learning e IA, Estatistica Preditiva.
-                <div class="skill-category">
                     <strong>Análise de Dados & BI</strong>
                     Python, SQL, Power BI (DAX), Excel Avançado, Estatística Descritiva, ETL/ELT, Web Scraping, Git/GitHub.
                 </div>
@@ -283,7 +281,7 @@
             <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Gestão em Governança, Ciência e inteligência de Dados </span> <span class="sep">|</span> <span class="entry-company">CGINT - Anvisa</span>
+                        <span class="entry-title">Governança, Ciência e Inteligência de Dados </span> <span class="sep">|</span> <span class="entry-company">CGINT - Anvisa</span>
                     </div>
                     <span class="entry-date">jan 2022 – Presente</span>
                 </div>
