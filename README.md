@@ -376,8 +376,8 @@
                 <div class="entry-header">
                     <span class="entry-title">Análise de Dados</span>
                     <span class="entry-date" style="color: var(--accent-color)">Python, Excel, PowerBI</span>
-                </div>
-                <ul>
+
+                
                     <li>Automatização de pipelines de dados <strong>(ETL com python e Power BI)</strong> viabilizando o desenvolvimento de painéis analíticos para acompanhamento de resultado e suporte à tomada de decisão de franquiados de rede de fastfood.</li>
                     <li>Monitoramento contínuo de KPIs de desempenho <strong>(Ticket Médio, Cross Sell por meio de Business Intelligence)</strong> apoiando decisões estratégicas e melhoria de resultados.</li>
                     <li>Análise Estatistica e probabilistica de dados de demissões punitivas do Governo Federal para criação de politicas públicas direcionadas com foco na identificação de <strong>padrões, tendências e fatores de risco,</strong> subsidiando a formulação de políticas públicas.<li>
