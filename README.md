@@ -298,6 +298,7 @@
                     </div>
                     <span class="entry-date">Dez 2022 – Presente</span>
                 </div>
+                </div>
                 <ul>
                     <li>Apoio gerencial e técnico em atividades de <strong> Ciência, Governmança e Inteligência de dados</strong> realizando levantamento de requisitos, gestão de projetos, escolhas de ferramentas, .</li>
                     <li>Administração e monitoramento de licenciamento de ferramentas de BI e de Processamento em núvem de preojetos de dados.</li>
@@ -430,5 +431,3 @@
     </div>
 </body>
 </html>
-
-
