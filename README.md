@@ -386,33 +386,47 @@
                     <li><strong>Análise econômico-financeira de contrato de prestação de serviços de transporte executivo,</strong> avaliando custos, utilização e eficiência operacional, o que resultou em revisão estratégica do modelo de contratação e otimização do gasto público.</li>
                     </ul>
                     
-               <section>
+            </section>
+
+        <section>
             <h2>Formação Acadêmica e Idiomas</h2>
+
             <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Ciência de Dados e Inteligência Artificial</span> <span class="sep">|</span> <span class="entry-company">Universidade Oswaldo Cruz</span>
+                        <span class="entry-title">Ciência de Dados e Inteligência Artificial</span>
+                        <span class="sep">|</span>
+                        <span class="entry-company">Universidade Oswaldo Cruz</span>
                     </div>
                     <span class="entry-date">Conclusão: 2025</span>
                 </div>
             </div>
+
             <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Inteligência Artificial para Predições em Vigilância e Saúde</span> <span class="sep">|</span> <span class="entry-company">Profep/USP</span>
+                        <span class="entry-title">Inteligência Artificial para Predições em Vigilância e Saúde</span>
+                        <span class="sep">|</span>
+                        <span class="entry-company">Profep/USP</span>
                     </div>
                     <span class="entry-date">Conclusão: 2025</span>
                 </div>
-                </div>
-                <div class="entry">
+            </div>
+
+            <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Inglês Intermediário</span> <span class="sep">|</span> <span class="entry-company">Nível B3</span>
+                        <span class="entry-title">Inglês Intermediário</span>
+                        <span class="sep">|</span>
+                        <span class="entry-company">Nível B3</span>
                     </div>
-                </div>           
+                </div>
             </div>
-            </div>
-             </section>
-  </body>
+
+        </section>
+
+    </div>
+</body>
 </html>
+
 
