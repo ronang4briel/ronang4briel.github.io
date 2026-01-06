@@ -1,9 +1,16 @@
-
-<html lang="pt-BR">
 <head>
+    <html lang="pt-BR">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Currículo - Ronan Gabriel</title>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZF9E2WKWQW"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-ZF9E2WKWQW');
+    </script>  
     <style>
         :root {
             /* Paleta de Cores Modernizada */
