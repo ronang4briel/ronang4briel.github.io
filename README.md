@@ -384,7 +384,8 @@
                     <li>Análise de demanda e consumo de bebidas quentes na planta da Anvisa, utilizando dados históricos e padrões de consumo para subsidiar renegociação contratual,<strong> resultando em maior eficiência econômica e otimização de recursos públicos.</strong><li>
                     <li><strong>Análise transversal do arcabouço legislativo e regulatório da Anvisa,</strong> com abordagem analítica voltada à identificação de impactos normativos, coerência regulatória e apoio à inteligência regulatória.<li>
                     <li><strong>Análise econômico-financeira de contrato de prestação de serviços de transporte executivo,</strong> avaliando custos, utilização e eficiência operacional, o que resultou em revisão estratégica do modelo de contratação e otimização do gasto público.<li>
-             
+                    </ul>
+                    
                <section>
             <h2>Formação Acadêmica e Idiomas</h2>
             <div class="entry">
@@ -403,16 +404,14 @@
                     <span class="entry-date">Conclusão: 2025</span>
                 </div>
 
-            </div>
-            <div class="entry">
+                <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
                         <span class="entry-title">Inglês Intermediário</span> <span class="sep">|</span> <span class="entry-company">Nível B3</span>
                     </div>
-                </div>
-                
+                </div>           
             </div>
-        </section>
+             </section>
   </body>
 </html>
 
