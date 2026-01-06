@@ -403,7 +403,7 @@
                     </div>
                     <span class="entry-date">Conclusão: 2025</span>
                 </div>
-
+                </div>
                 <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
