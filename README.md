@@ -361,6 +361,8 @@
                     <li><strong>Resultado:</strong> As variáveis análisadas foram capazes de prever aproximadamente 38% do preço das compras, apontando para criticidade regional e logística como resultado.</li>
                 </ul>
             </div>
+         </section>
+         
             <div class="entry">
                 <div class="entry-header">
                     <span class="entry-title">Ciência de Dados - Predição de Casos Graves (Dengue)</span>
