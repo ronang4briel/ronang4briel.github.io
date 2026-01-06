@@ -378,8 +378,12 @@
                     <span class="entry-date" style="color: var(--accent-color)">Python, Excel, PowerBI</span>
                 </div>
                 <ul>
-                    <li>Automação de dados de faturamento rede HADCOS(MC Donalds bsb e GO.</li>
-                    <li>Implementou automação do monitoramento diário de TMédio e Cross Sell da rede de franquias MC donalds para tomada de decisão estratégica para aumento de desenpenho.</li>
+                    <li>Automatização de pipelines de dados <strong>(ETL com python e Power BI)</strong> viabilizando o desenvolvimento de painéis analíticos para acompanhamento de resultado e suporte à tomada de decisão de franquiados de rede de fastfood.</li>
+                    <li>Monitoramento contínuo de KPIs de desempenho <strong>(Ticket Médio, Cross Sell por meio de Business Intelligence)</strong> apoiando decisões estratégicas e melhoria de resultados.</li>
+                    <li>Análise Estatistica e probabilistica de dados de demissões punitivas do Governo Federal para criação de politicas públicas direcionadas com foco na identificação de <strong>padrões, tendências e fatores de risco,</strong> subsidiando a formulação de políticas públicas.<li>
+                    <li>Análise de demanda e consumo de bebidas quentes na planta da Anvisa, utilizando dados históricos e padrões de consumo para subsidiar renegociação contratual,<strong> resultando em maior eficiência econômica e otimização de recursos públicos.</strong><li>
+                    <li><strong>Análise transversal do arcabouço legislativo e regulatório da Anvisa,</strong> com abordagem analítica voltada à identificação de impactos normativos, coerência regulatória e apoio à inteligência regulatória.<li>
+                    <li><strong>Análise econômico-financeira de contrato de prestação de serviços de transporte executivo,</strong> avaliando custos, utilização e eficiência operacional, o que resultou em revisão estratégica do modelo de contratação e otimização do gasto público.<li>
                 </ul>
             </div>
         </section>
