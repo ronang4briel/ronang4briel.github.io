@@ -385,9 +385,7 @@
                     <li><strong>Análise transversal do arcabouço legislativo e regulatório da Anvisa,</strong> com abordagem analítica voltada à identificação de impactos normativos, coerência regulatória e apoio à inteligência regulatória.<li>
                     <li><strong>Análise econômico-financeira de contrato de prestação de serviços de transporte executivo,</strong> avaliando custos, utilização e eficiência operacional, o que resultou em revisão estratégica do modelo de contratação e otimização do gasto público.<li>
              
-        </section>
-
-        <section>
+               <section>
             <h2>Formação Acadêmica e Idiomas</h2>
             <div class="entry">
                 <div class="entry-header">
@@ -415,7 +413,6 @@
                 
             </div>
         </section>
-    </div>
-</body>
+  </body>
 </html>
 
