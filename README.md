@@ -250,8 +250,9 @@
 </head>
 <body>
     <div class="cv-container">
+
         <header>
-            <h1>Ronan Gabriel </h1>
+            <h1>Ronan Gabriel</h1>
             <div class="subtitle">Cientista de Dados | Python, SQL & Power BI | Background em IA e ML, BI e Analytics</div>
             <div class="contact-info">
                 <span>📍 Brasília, DF (Disponível para Outras Regiões)</span>
@@ -265,25 +266,28 @@
         <section>
             <h2>Resumo Profissional</h2>
             <p class="summary-text">
-                Meu trabalho consiste em fortalecer as capacidades analíticas da instituição para gerar informações que sirvam de evidências para a tomada de decisões estratégicas. Possuo background e ampla experiência nos seguimentos governamentais da área da saúde e corporativos.
-                Atualmente, trabalho desenvolvendo suporte gerencial e analítico para atividades relacionadas à Governança, Inteligência e Ciência de Dados também a implementação de Inteligência Artificial nos proecssos de trabalho das áreas finalísticas utilizando <strong>Python (Pandas, Scikit-learn), SQL e Power BI</strong>.
+                Meu trabalho consiste em fortalecer as capacidades analíticas da instituição para gerar informações que sirvam de evidências para a tomada de decisões estratégicas.
+                Possuo background e ampla experiência nos seguimentos governamentais da área da saúde e corporativos.
+                Atualmente, trabalho desenvolvendo suporte gerencial e analítico para atividades relacionadas à Governança, Inteligência e Ciência de Dados,
+                bem como a implementação de Inteligência Artificial nos processos de trabalho das áreas finalísticas utilizando
+                <strong>Python (Pandas, Scikit-learn), SQL e Power BI</strong>.
             </p>
         </section>
 
         <section>
             <h2>Competências Técnicas</h2>
             <div class="skills-grid">
-            <div class="skill-category">
-            <strong>Ciência de Dados</strong>
-                   Aprendizado de máquina, Deep Learning, IA, Estatistica Preditiva.
-                   </div>
-                   <div class="skill-category">
+                <div class="skill-category">
+                    <strong>Ciência de Dados</strong>
+                    Aprendizado de máquina, Deep Learning, IA, Estatística Preditiva.
+                </div>
+                <div class="skill-category">
                     <strong>Análise de Dados & BI</strong>
                     Python, SQL, Power BI (DAX), Excel Avançado, Estatística Descritiva, ETL/ELT, Web Scraping, Git/GitHub.
-                    </div>
-                    <div class="skill-category">
+                </div>
+                <div class="skill-category">
                     <strong>Banco de Dados & Cloud</strong>
-                    Postgre, SQLserver, Azurefactoring.
+                    Postgre, SQL Server, Azure.
                 </div>
             </div>
         </section>
@@ -294,102 +298,85 @@
             <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Governança, Ciência e Inteligência de Dados </span> <span class="sep">|</span> <span class="entry-company">CGINT - Anvisa</span>
+                        <span class="entry-title">Governança, Ciência e Inteligência de Dados</span>
+                        <span class="sep">|</span>
+                        <span class="entry-company">CGINT - Anvisa</span>
                     </div>
                     <span class="entry-date">Dez 2022 – Presente</span>
                 </div>
-                </div>
                 <ul>
-                    <li>Apoio gerencial e técnico em atividades de <strong> Ciência, Governmança e Inteligência de dados</strong> realizando levantamento de requisitos, gestão de projetos, escolhas de ferramentas, .</li>
-                    <li>Administração e monitoramento de licenciamento de ferramentas de BI e de Processamento em núvem de preojetos de dados.</li>
-                    <li>Desenvolvimento de indicadores de desempenho e monitoramento de contratos de BI & Analytics e Azure.</li>
+                    <li>Apoio gerencial e técnico em atividades de Ciência, Governança e Inteligência de Dados.</li>
+                    <li>Administração e monitoramento de licenciamento de ferramentas de BI e processamento em nuvem.</li>
+                    <li>Desenvolvimento de indicadores de desempenho e monitoramento de contratos de BI & Analytics.</li>
                 </ul>
             </div>
 
             <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Analista de Dados</span> <span class="sep">|</span> <span class="entry-company">GECOR - Anvisa</span>
+                        <span class="entry-title">Analista de Dados</span>
+                        <span class="sep">|</span>
+                        <span class="entry-company">GECOR - Anvisa</span>
                     </div>
-                    <span class="entry-date">Jan 2021– Jul 2022</span>
+                    <span class="entry-date">Jan 2021 – Jul 2022</span>
                 </div>
                 <ul>
-                    <li>Modelagem e processamento de alguns dados monitorados pela Anvisa com otimização na disponibilização ddos abertos em <strong>30%</strong>.</li>
-                    <li>Realização de análise exploratória de dados (EDA) de performance de colaboradores identificando gargalos de em projetos e sugerindo intervenções estratégicas de performance baseadas em dados.</li>
-                    <li>Desenvolvimento de dashboards publicados no
-                    <span> <a href="https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/observatorio#:~:text=O%20Observat%C3%B3rio%20de%20Regula%C3%A7%C3%A3o%20Sanit%C3%A1ria,de%20forma%20inteligente%20e%20din%C3%A2mica)" target="_blank">Observatório de Regulação da Anvisa</a></span>.</li>
+                    <li>Modelagem e processamento de dados com otimização de 30% na disponibilização.</li>
+                    <li>Análise exploratória de dados (EDA) para performance organizacional.</li>
+                    <li>Dashboards publicados no Observatório de Regulação da Anvisa.</li>
                 </ul>
             </div>
 
             <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Analista de Dados</span> <span class="sep">|</span> <span class="entry-company">GELOG - Anvisa</span>
+                        <span class="entry-title">Analista de Dados</span>
+                        <span class="sep">|</span>
+                        <span class="entry-company">GELOG - Anvisa</span>
                     </div>
                     <span class="entry-date">Jan 2019 – Jun 2020</span>
                 </div>
                 <ul>
-                    <li>Monitoramento de contratos de logisticas e de outros seguimentos obtendo <strong>redução considerável</strong> em dotações orçamentarias.</li>
-                    <li>Desenvolvimento de painéis estratégicos para tomada de decisão estratégicas em contratações da casa.</li>
+                    <li>Monitoramento de contratos logísticos com redução de custos.</li>
+                    <li>Desenvolvimento de painéis estratégicos para tomada de decisão.</li>
                 </ul>
             </div>
 
             <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Consultor Analista de Dados</span> <span class="sep">|</span> <span class="entry-company">Rede HADC (franquias de fast food)</span>
+                        <span class="entry-title">Consultor Analista de Dados</span>
+                        <span class="sep">|</span>
+                        <span class="entry-company">Rede HADC</span>
                     </div>
-                    <span class="entry-date">jan 2018 – Dez 2018</span>
+                    <span class="entry-date">Jan 2018 – Dez 2018</span>
                 </div>
                 <ul>
-                    <li>Automação de coleta de dados diários de faturamento, API com paginação.</li>
-                    <li>Desenvolvimento de indicadores e regras de negócio em DAX/Power BI aumentando faturamento mensal de <strong> 3% a 5%</strong>.</li>
-                    <li>Atuou na modelagem de dados garantindo atualização diária de indicadores de desempenho.</li>
+                    <li>Automação de coleta de dados de faturamento com API paginada.</li>
+                    <li>Criação de indicadores em DAX/Power BI.</li>
+                    <li>Modelagem de dados com atualização diária.</li>
                 </ul>
             </div>
         </section>
 
         <section>
             <h2>Projetos em Destaque</h2>
-            <div class="entry">
-                <div class="entry-header">
-                    <span class="entry-title">IA Aplicada a Análise de compras Públicas </span>
-                    <span class="entry-date" style="color: var(--accent-color)">Python, Power BI, SQLserver</span>
-                </div>
-                <ul>
-                    <li><strong>Problema de Negócio:</strong> Identificar discrepância regional e anual em compras públicas e privadas de stents farmacológicos.</li>
-                    <li><strong>Solução:</strong>Automação no processamento e ETL de dados do OpenDataSUS utilizando SQL, Python e Power BI.</li>
-                    <li><strong>Resultado:</strong> As variáveis análisadas foram capazes de prever aproximadamente 38% do preço das compras, apontando para criticidade regional e logística como resultado.</li>
-                </ul>
-            </div>
-         </section>
-         
-            <div class="entry">
-                <div class="entry-header">
-                    <span class="entry-title">Ciência de Dados - Predição de Casos Graves (Dengue)</span>
-                    <span class="entry-date" style="color: var(--accent-color)">Python, SQL, Power BI</span>
-                </div>
-                <ul>
-                    <li><strong>Problema de Negócio:</strong> Transformar dados brutos governamentais em inteligência preditiva de casos de dengue que poderiam evoluir para casos graves e possivelmente óbitos.</li>
-                    <li><strong>Solução:</strong> Criação de pipeline de dadis com ETL automatizado com Python (Pandas), modelagem e dashboard estratégico.</li>
-                    <li><strong>Resultado:</strong> Mapeamento da região sudeste segundo dados do SINAN online, otimização e validação do modelo preditivo. (Técnicas de validação como accuracy, recall, precision e cross validation).</li>
-                </ul>
-            </div>
+
             <div class="entry">
                 <div class="entry-header">
                     <span class="entry-title">Análise de Dados</span>
-                    <span class="entry-date" style="color: var(--accent-color)">Python, Excel, PowerBI</span>
-                    </div>
-                <ul>                
-                    <li>Automatização de pipelines de dados <strong>(ETL com python e Power BI)</strong> viabilizando o desenvolvimento de painéis analíticos para acompanhamento de resultado e suporte à tomada de decisão de franquiados de rede de fastfood.</li>
-                    <li>Monitoramento contínuo de KPIs de desempenho <strong>(Ticket Médio, Cross Sell por meio de Business Intelligence)</strong> apoiando decisões estratégicas e melhoria de resultados.</li>
-                    <li>Análise Estatistica e probabilistica de dados de demissões punitivas do Governo Federal para criação de politicas públicas direcionadas com foco na identificação de <strong>padrões, tendências e fatores de risco,</strong> subsidiando a formulação de políticas públicas.</li>
-                    <li>Análise de demanda e consumo de bebidas quentes na planta da Anvisa, utilizando dados históricos e padrões de consumo para subsidiar renegociação contratual,<strong> resultando em maior eficiência econômica e otimização de recursos públicos.</strong></li>
-                    <li><strong>Análise transversal do arcabouço legislativo e regulatório da Anvisa,</strong> com abordagem analítica voltada à identificação de impactos normativos, coerência regulatória e apoio à inteligência regulatória.</li>
-                    <li><strong>Análise econômico-financeira de contrato de prestação de serviços de transporte executivo,</strong> avaliando custos, utilização e eficiência operacional, o que resultou em revisão estratégica do modelo de contratação e otimização do gasto público.</li>
-                    </ul>
-                    
-            </section>
+                    <span class="entry-date" style="color: var(--accent-color)">Python, Excel, Power BI</span>
+                </div>
+                <ul>
+                    <li>Automatização de pipelines de dados (ETL com Python e Power BI).</li>
+                    <li>Monitoramento contínuo de KPIs (Ticket Médio, Cross Sell).</li>
+                    <li>Análise estatística e probabilística para políticas públicas.</li>
+                    <li>Análise de demanda e consumo na Anvisa.</li>
+                    <li>Análise regulatória transversal da Anvisa.</li>
+                    <li>Análise econômico-financeira de contratos.</li>
+                </ul>
+            </div>
+        </section>
 
         <section>
             <h2>Formação Acadêmica e Idiomas</h2>
@@ -410,7 +397,7 @@
                     <div class="entry-title-group">
                         <span class="entry-title">Inteligência Artificial para Predições em Vigilância e Saúde</span>
                         <span class="sep">|</span>
-                        <span class="entry-company">Profep/USP</span>
+                        <span class="entry-company">Profep / USP</span>
                     </div>
                     <span class="entry-date">Conclusão: 2025</span>
                 </div>
@@ -425,7 +412,6 @@
                     </div>
                 </div>
             </div>
-
         </section>
 
     </div>
