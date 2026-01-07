@@ -394,9 +394,7 @@
                     <li>Automatização de pipelines de dados.</li>
                     <li>Monitoramento contínuo de KPIs de Ticket Médio, Cross Sell, MoM e YoY.</li>
                     <li>Análise estatística e probabilística para políticas públicas.</li>
-                    <li>Análise de demanda e consumo na Anvisa.</li>
-                    <li>Análise regulatória transversal da Anvisa.</li>
-                    <li>Análise econômico-financeira de contratos.</li>
+                    <li>Análise econômico-financeira de contratos comn base em indicadores de resultado.</li>
             </ul>
         </div>
         </div>
