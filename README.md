@@ -375,7 +375,7 @@
         </div>
         <div class="entry">
             <div class="entry-header">
-                <span class="entry-title">Ciência de Dados - Predição de Casos Graves (Dengue)</span>
+                <span class="entry-title">Ciência de Dados - Predição de Casos Graves de dengue</span>
                 <span class="entry-date" style="color: var(--accent-color)">Python, SQL, Power BI</span>
             </div>
             <ul>
@@ -386,13 +386,13 @@
         </div>
         <div class="entry">
             <div class="entry-header">
-                <span class="entry-title">Análise de Dados</span>
+                <span class="entry-title">Aconselhamento imparcial em Análise de Dados</span>
                 <span class="entry-date" style="color: var(--accent-color)">Python, Excel, PowerBI</span>
             </div>
             <div>
             <ul>
-                    <li>Automatização de pipelines de dados (ETL com Python e Power BI).</li>
-                    <li>Monitoramento contínuo de KPIs (Ticket Médio, Cross Sell).</li>
+                    <li>Automatização de pipelines de dados.</li>
+                    <li>Monitoramento contínuo de KPIs de Ticket Médio, Cross Sell, MoM e YoY.</li>
                     <li>Análise estatística e probabilística para políticas públicas.</li>
                     <li>Análise de demanda e consumo na Anvisa.</li>
                     <li>Análise regulatória transversal da Anvisa.</li>
