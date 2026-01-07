@@ -267,7 +267,7 @@
             <h2>Resumo Profissional</h2>
             <p class="summary-text">
                 Meu trabalho consiste em fortalecer as capacidades analíticas da instituição para gerar informações que sirvam de evidências para a tomada de decisões estratégicas.
-                Possuo background e ampla experiência nos seguimentos governamentais da área da saúde e corporativos.
+                Possuo background e ampla experiência nos seguimentos governamentais da área da saúde e também consultoria no setor privado.
                 Atualmente, trabalho desenvolvendo suporte gerencial e analítico para atividades relacionadas à Governança, Inteligência e Ciência de Dados,
                 bem como a implementação de Inteligência Artificial nos processos de trabalho das áreas finalísticas utilizando
                 <strong>Python (Pandas, Scikit-learn), SQL e Power BI</strong>.
@@ -305,9 +305,9 @@
                     <span class="entry-date">Dez 2022 – Presente</span>
                 </div>
                 <ul>
-                    <li>Apoio gerencial e técnico em atividades de Ciência, Governança e Inteligência de Dados.</li>
-                    <li>Administração e monitoramento de licenciamento de ferramentas de BI e processamento em nuvem.</li>
-                    <li>Desenvolvimento de indicadores de desempenho e monitoramento de contratos de BI & Analytics.</li>
+                    <li>Apoio gerencial e técnico em atividades de <strong>Ciência, Governança e Inteligência de Dados.</strong></li>
+                    <li>Administração e monitoramento de <strong>licenciamento de ferramentas de BI e processamento de projetos em nuvem.</strong></li>
+                    <li>Desenvolvimento de indicadores de desempenho e monitoramento de contratos de <strong>BI & Analytics.</strong></li>
                 </ul>
             </div>
 
@@ -321,9 +321,10 @@
                     <span class="entry-date">Jan 2021 – Jul 2022</span>
                 </div>
                 <ul>
-                    <li>Modelagem e processamento de dados com otimização de 30% na disponibilização.</li>
-                    <li>Análise exploratória de dados (EDA) para performance organizacional.</li>
-                    <li>Dashboards publicados no Observatório de Regulação da Anvisa.</li>
+                    <li>Modelagem e processamento de dados com otimização de <strong>30% em disponibilização.</strong></li>
+                    <li><strong>Análise exploratória de dados (EDA)</strong> para performance organizacional.</li>
+                    <li>Desenvolvimento de Dashboards publicados 
+                     <span> <a href="https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/observatorio#:~:text=O%20Observat%C3%B3rio%20de%20Regula%C3%A7%C3%A3o%20Sanit%C3%A1ria,de%20forma%20inteligente%20e%20din%C3%A2mica)" target="_blank">Observatório de Regulação da Anvisa</a></span>.</li>
                 </ul>
             </div>
 
@@ -337,46 +338,67 @@
                     <span class="entry-date">Jan 2019 – Jun 2020</span>
                 </div>
                 <ul>
-                    <li>Monitoramento de contratos logísticos com redução de custos.</li>
-                    <li>Desenvolvimento de painéis estratégicos para tomada de decisão.</li>
+                    <li>Monitoramento de contratos logísticos com resultado de <strong>redução de custos.</strong></li>
+                    <li>Desenvolvimento de painéis análiticos para tomada de decisão estratégica.</li>
                 </ul>
             </div>
 
             <div class="entry">
                 <div class="entry-header">
                     <div class="entry-title-group">
-                        <span class="entry-title">Consultor Analista de Dados</span>
+                        <span class="entry-title">Aconselhamento imparcial em Analise de Dados</span>
                         <span class="sep">|</span>
-                        <span class="entry-company">Rede HADC</span>
+                        <span class="entry-company">Rede fast food</span>
                     </div>
                     <span class="entry-date">Jan 2018 – Dez 2018</span>
                 </div>
                 <ul>
-                    <li>Automação de coleta de dados de faturamento com API paginada.</li>
-                    <li>Criação de indicadores em DAX/Power BI.</li>
-                    <li>Modelagem de dados com atualização diária.</li>
+                    <li>Desenvolvimento de automação de coleta de dados de faturamento com <strong>API paginada.</strong></li>
+                    <li>Criação de <strong>indicadores em DAX/Power BI</strong> com apoderamento de regras de negócio.</li>
+                    <li><strong>Modelagem de dados</strong> com atualização diária.</li>
                 </ul>
             </div>
         </section>
 
-        <section>
-            <h2>Projetos em Destaque</h2>
-
-            <div class="entry">
-                <div class="entry-header">
-                    <span class="entry-title">Análise de Dados</span>
-                    <span class="entry-date" style="color: var(--accent-color)">Python, Excel, Power BI</span>
-                </div>
-                <ul>
-                    <li>Automatização de pipelines de dados (ETL com Python e Power BI).</li>
-                    <li>Monitoramento contínuo de KPIs (Ticket Médio, Cross Sell).</li>
-                    <li>Análise estatística e probabilística para políticas públicas.</li>
-                    <li>Análise de demanda e consumo na Anvisa.</li>
-                    <li>Análise regulatória transversal da Anvisa.</li>
-                    <li>Análise econômico-financeira de contratos.</li>
-                </ul>
+          <section>
+        <h2>Projetos em Destaque</h2>
+        <div class="entry">
+            <div class="entry-header">
+                <span class="entry-title">IA Aplicada a Análise de compras Públicas </span>
+                <span class="entry-date" style="color: var(--accent-color)">Python, Power BI, SQLserver</span>
             </div>
-        </section>
+            <ul>
+                <li><strong>Problema de Negócio:</strong> Identificar discrepância regional e anual em compras públicas e privadas de stents farmacológicos.</li>
+                <li><strong>Solução:</strong>Automação no processamento e ETL de dados do OpenDataSUS utilizando SQL, Python e Power BI.</li>
+                <li><strong>Resultado:</strong> As variáveis análisadas foram capazes de prever aproximadamente 38% do preço das compras, apontando para criticidade regional e logística como resultado.</li>
+            </ul>
+        </div>
+        <div class="entry">
+            <div class="entry-header">
+                <span class="entry-title">Ciência de Dados - Predição de Casos Graves (Dengue)</span>
+                <span class="entry-date" style="color: var(--accent-color)">Python, SQL, Power BI</span>
+            </div>
+            <ul>
+                <li><strong>Problema de Negócio:</strong> Transformar dados brutos governamentais em inteligência preditiva de casos de dengue que poderiam evoluir para casos graves e possivelmente óbitos.</li>
+                <li><strong>Solução:</strong> Criação de pipeline de dadis com ETL automatizado com Python (Pandas), modelagem e dashboard estratégico.</li>
+                <li><strong>Resultado:</strong> Mapeamento da região sudeste segundo dados do SINAN online, otimização e validação do modelo preditivo. (Técnicas de validação como accuracy, recall, precision e cross validation).</li>
+            </ul>
+        </div>
+        <div class="entry">
+            <div class="entry-header">
+                <span class="entry-title">Análise de Dados</span>
+                <span class="entry-date" style="color: var(--accent-color)">Python, Excel, PowerBI</span>
+            </div>
+            <ul>
+                <li>Automatização de pipelines de dados <strong>(ETL com python e Power BI)</strong> viabilizando o desenvolvimento de painéis analíticos para acompanhamento de resultado e suporte à tomada de decisão de franquiados de rede de fastfood.</li>
+                <li>Monitoramento contínuo de KPIs de desempenho <strong>(Ticket Médio, Cross Sell por meio de Business Intelligence)</strong> apoiando decisões estratégicas e melhoria de resultados.</li>
+                <li>Análise Estatistica e probabilistica de dados de demissões punitivas do Governo Federal para criação de politicas públicas direcionadas com foco na identificação de <strong>padrões, tendências e fatores de risco,</strong> subsidiando a formulação de políticas públicas.<li>
+                <li>Análise de demanda e consumo de bebidas quentes na planta da Anvisa, utilizando dados históricos e padrões de consumo para subsidiar renegociação contratual,<strong> resultando em maior eficiência econômica e otimização de recursos públicos.</strong><li>
+                <li><strong>Análise transversal do arcabouço legislativo e regulatório da Anvisa,</strong> com abordagem analítica voltada à identificação de impactos normativos, coerência regulatória e apoio à inteligência regulatória.<li>
+                <li><strong>Análise econômico-financeira de contrato de prestação de serviços de transporte executivo,</strong> avaliando custos, utilização e eficiência operacional, o que resultou em revisão estratégica do modelo de contratação e otimização do gasto público.<li>
+            </ul>
+        </div>
+    </section>
 
         <section>
             <h2>Formação Acadêmica e Idiomas</h2>
