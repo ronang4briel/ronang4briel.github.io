@@ -380,8 +380,8 @@
             </div>
             <ul>
                 <li><strong>Problema de Negócio:</strong> Transformar dados brutos governamentais em inteligência preditiva de casos de dengue que poderiam evoluir para casos graves e possivelmente óbitos.</li>
-                <li><strong>Solução:</strong> Criação de pipeline de dadis com ETL automatizado com Python (Pandas), modelagem e dashboard estratégico.</li>
-                <li><strong>Resultado:</strong> Mapeamento da região sudeste segundo dados do SINAN online, otimização e validação do modelo preditivo. (Técnicas de validação como accuracy, recall, precision e cross validation).</li>
+                <li><strong>Solução:</strong> Criação de pipeline de dados com ETL automatizado com Python (Pandas), modelagem e dashboard estratégico.</li>
+                <li><strong>Resultado:</strong> Mapeamento da região sudeste segundo dados do SINAN online, otimização e validação do modelo preditivo. (Técnicas de accuracy, recall, precision e cross validation).</li>
             </ul>
         </div>
         <div class="entry">
@@ -393,7 +393,7 @@
             <ul>
                     <li>Automatização de pipelines de dados.</li>
                     <li>Monitoramento contínuo de KPIs de Ticket Médio, Cross Sell, MoM e YoY.</li>
-                    <li>Análise estatística e probabilística para políticas públicas.</li>
+                    <li>Análise estatística descritiva e preditiva para incremento de faturamento e análise de resultado de políticas públicas.</li>
                     <li>Análise econômico-financeira de contratos com base em indicadores de resultado.</li>
             </ul>
         </div>
