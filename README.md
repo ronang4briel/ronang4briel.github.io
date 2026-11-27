@@ -260,7 +260,8 @@
                 <span>📧 <a href="mailto:ronangabriel1@gmail.com">ronangabriel1@gmail.com</a></span>
                 <span>🔗 <a href="https://linkedin.com/in/ronangabriel1" target="_blank">linkedin.com/in/ronangabriel1</a></span>
                 <span>💻 <a href="https://github.com/ronang4briel" target="_blank">github.com/ronang4briel</a></span>
-            </div>
+                <span>📃 <a href="https:[//github.com/ronang4briel](https://curriculo.sougov.economia.gov.br/ronan-santos-1518479)" target="_blank">curriculum/ronang4briel</a></span>
+                            </div>
         </header>
 
         <section>
